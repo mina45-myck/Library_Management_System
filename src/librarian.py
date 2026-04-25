@@ -1,5 +1,4 @@
-from person import Person
-
+from .person import Person
 class Librarian(Person):
     """
     Librarian class inherits from Person.
